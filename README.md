@@ -1,0 +1,1 @@
+# flash-confetti-class
